@@ -1,6 +1,6 @@
 ---
 icon: indent
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: .gitbook/assets/Screenshot 2025-06-23 at 19.57.55.png
 coverY: 0
 layout:
   cover:
